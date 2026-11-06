@@ -1,8 +1,7 @@
-const CACHE_NAME = 'seat-map-cache-v2';
+const CACHE_NAME = 'seat-map-cache-v3';
 const ASSETS = [
   './',
   './index.html',
-  './Seat_Map_Offline.html',
   './manifest.webmanifest',
   './pwa-192x192.png',
   './pwa-512x512.png',
