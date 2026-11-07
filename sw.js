@@ -1,4 +1,4 @@
-const CACHE_NAME = 'seat-map-cache-v5';
+const CACHE_NAME = 'seat-map-cache-v6';
 const ASSETS = [
   './',
   './index.html',
